@@ -1,6 +1,6 @@
 <div align="center">
 <h1> SegPrompt: Leveraging Prior Knowledge and Multi-Scale Attention for Robust Medical Image Segmentation </h1>
-
+</div>
 
 ## 🎈 News
 
