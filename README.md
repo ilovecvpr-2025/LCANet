@@ -13,8 +13,7 @@
 </div>
 
 
-The challenges: (a) the background interference, (b) the complex lesion structure, (c) the intricate edge, and (d) the blurry background.
-
+The challenges: (a) background interference; (b) intricate edge; (c) complex lesion structure; (d) blurry background.
 
 ## 📻 Overview
 
